@@ -1,0 +1,289 @@
+@media only screen and (min-width: 380px) and (max-width: 500px) {
+
+    .name ,#name ,.email, #email, .mess, #mess, .send {
+        margin-left: 29px;
+    }
+
+    .underline {
+        margin-top: 430px;
+    }
+
+    .div2 {
+        margin-left: 23px;
+    } 
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+
+#nav-tog {
+    
+    margin-left: 400px;
+}
+
+.div4 {
+    position: relative;
+    top: 0px;
+    right: 55px;
+}
+
+.resp3 {
+    height: 450px;
+    /* width: 500px; */
+    /* padding-right: 100px; */
+    position: relative;
+    right: 40px;
+}
+
+.resp1 {
+    font-size: 42px;
+    width: 500px;
+}
+.resp2 {
+    font-size: 20px;
+    width: 400px;
+}
+
+#img-com {
+    height: 30px;
+    width: 600px;
+}
+
+#resp4 {
+    position: absolute;
+    top: 1050px;
+    left: 255px;
+}
+
+#resp5 {
+    position: absolute;
+    top: 1100px;
+    left: 100px;
+    font-weight: 600;
+}
+
+#resp10 {
+    height: 300px;
+    width: 600px;
+    position: absolute;
+}
+#resp4 {
+    margin-top: 30px;
+} 
+
+.step {
+    margin-right: 50px;
+}
+
+#respon1 {
+position: fixed;
+}
+
+#resp7 {
+    height: 300px;
+    width: 600px;
+    position: absolute;
+}
+
+#resp12 {
+    position: relative;
+    top: 0px;
+    right: 60px;
+}
+
+.card5 {
+    height: 130px;
+    width: 620px;
+    background-color: rgb(228, 229, 235);
+
+}
+
+.bigt {
+   
+    font-size: 11px;
+    font-weight: 600;
+    /* width: 601px; */
+    width: 550px;
+    text-align: center;
+    position: absolute;
+    top: 1460px;
+    left: 40px;
+    /* position: relative;
+    right: 10px;
+    bottom: 10px; */
+}
+
+.line {
+    position: relative;
+    bottom: 50px;
+    right: 60px;
+    width: 660px;
+    position: relative;
+    bottom: 38px;
+}
+
+.head {
+    position: absolute;
+    top: 1402px;
+    left: 90px;
+}
+
+.resize {
+    position: absolute;
+    top: 1411px;
+    left: 130px;
+}
+
+.circle1 {
+    width: 27px;
+    height: 27px;
+    position: relative;
+    bottom: 21px;
+    left: 220px;
+}
+
+.responsive {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card6,.card7,.card8,.card9,.card10 {
+    height: 130px;
+    width: 620px;
+}
+
+.resp-man {
+    width: 230px;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.text7 {
+    position: absolute;
+    top: 1600px;
+    left: 70px;
+}
+
+.text8 {
+    position: absolute;
+    top: 1760px;
+    left: 70px;
+}
+
+.text9 {
+    position: absolute;
+    top: 1920px;
+    left: 70px;
+}
+.text10 {
+    position: absolute;
+    top: 2080px;
+    left: 70px;
+}
+.text11 {
+    position: absolute;
+    top: 2240px;
+    left: 70px;
+}
+.round {
+    /* height: 27px;
+    width: 27px; */
+    position: absolute;
+    top: 1600px;
+    left: 540px;
+}
+
+.round8,.round9,.round10,.round11 {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 230px;
+}
+
+.mask,.vec1,.vec2 {
+    height: 2px;
+    width: 2px;
+    position: fixed;
+}
+
+.pappa3 {
+    margin-left: 110px;
+}
+
+.main-container {
+    height: 800px;
+    width: 620px;
+    margin-left: 13px;
+}
+
+.black-card {
+    height: 800px;
+    width: 620px;
+    margin-left: 10px;
+}
+
+.divs1 {
+    position: absolute;
+}
+.divs2 {
+    margin-top: 10px;
+    position: absolute;
+    top: 3500px;
+    left: 120px;
+}
+
+.div2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.div3 {
+    position: absolute;
+    top: 3800px;
+    flex-direction: column;
+    width: 530px;
+    border-radius: 14px;
+}
+#email-2 {
+    width: 510px;
+} 
+.subs {
+    width: 510px;
+}
+
+.images {
+    position: absolute;
+    top: 4030px;
+    height: 200px;
+    width: 303px;
+    left: 235px;
+}
+
+#mar {
+    height: 50px;
+    width: 50px;
+}
+
+.underline {
+    width: 617px;
+    position: absolute;
+    top: 4060px;
+    right: px;
+    right: 20px;
+}
+.div4 {
+    position: absolute;
+    top: 4130px;
+    right: 110px;
+}
+} 

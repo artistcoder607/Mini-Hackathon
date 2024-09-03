@@ -1,0 +1,588 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+nav {
+    background-color: white !important;
+    height: 68px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 650px;
+    background-color: #f3f3f3;
+    height: 310px;
+    border-radius: 25px;
+    border: none;
+    border: 1px solid #191a23;
+    box-shadow: 2px 5px 2px 2px;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.margin{
+    margin-top: 150px !important;
+    margin-bottom: 50px;
+}
+.container h2{
+    background-color: #b9ff66;
+    width: 221px;
+    padding: 0px 7px 0px 10px;
+    border-radius: 25px;
+    line-height: 35px;
+    justify-content: space-between;
+}
+.myclass p{
+    margin-left: 0px;
+}
+.text h2{
+    background-color: #f3f3f3;
+    width: 209px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.cardlast{
+    display: flex;
+    align-items: center;
+}
+.learnmore{
+    background-color: #f3f3f3;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+}
+.learnmore img{
+    height: 90%;
+    width: 90%;
+}
+.forcardimg{
+    margin-left: 300px !important;
+    position: absolute;
+    top: 80px;
+}
+
+.text1 {
+    margin: 0;
+}
+.text2 {
+    margin: 0;
+    background-color: white !important;
+    width: 40px;
+}
+
+.pappa1 {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 120px;
+}
+
+#resp5 {
+margin-top: 4px;
+}
+#resp6 {
+    margin-bottom: 4px;
+}
+.process {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    font-weight: bold;
+    background-color: #b9ff66;
+    padding-left: 10px;
+    width: 303px;
+    height: 55px;
+    border-radius: 6px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.step {
+    font-size:14px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.goal {
+font-size: 14px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex2 {
+    margin-left: 20px;
+}
+
+.big-F {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+flex-direction: column;
+/* width: 1000px; */
+}
+
+.card5 {
+    margin-top: 60px;
+    background-color: #b9ff66;
+    height: 240px;
+    width: 1234px;
+    border-radius: 45px;
+    box-shadow: 0px 5px;
+}
+
+.dof {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+}
+.f01 {
+width: 1000px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 5px;
+/* background-color: #191a23; */
+} 
+
+.circle1 {
+    background-color: white;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.resize {
+    font-size: 19px;
+    margin-right: 740px;
+}
+.dof2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding-top: 30px;
+}
+.bigt {
+    width: 1000px;
+    padding-left: 20px;
+    /* background-color: #191a23; */
+}
+.line {
+    height: 1px;
+    width: 1000px;
+    background-color: black;
+    margin-top: 30px;
+    margin-left: 110px;
+}
+.dof3 {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+
+/* SMALL CARDS START */
+/* CARDS2 START  */
+.card6 ,.card7 ,.card8 ,.card9 ,.card10 {
+    height: 180px;
+    width: 1234px;
+    background-color: rgb(228, 229, 235);
+    border-radius: 45px;
+    box-shadow: 0px 5px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.round {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color: rgb(228, 229, 235);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.resize-all {
+height: 20px;
+}
+.text7 {
+    margin-right: 560px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin-left: 10px; */
+}
+.dom {
+margin-right: 20px;
+}
+/* CARDS2 END */
+.text8 {
+    margin-right: 790px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text9 {
+    margin-right: 670px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text10 {
+    margin-right: 670px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text11 {
+    margin-right: 750px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* SMALL CARDS END  */
+
+/* Contact us  */
+.contact {
+    font-size: 27px;
+     font-weight: bold;
+    /*display: flex;
+    justify-content: center;
+    align-items: center; */
+    background-color: #b9ff66;
+    height: 44px;
+    width: 170px;
+    padding-left: 16px;
+    border-radius: 9px;
+}
+.text12 ,.text13 {
+    font-size: 14px;
+}
+.pappa3 {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 72px;
+    margin-top: 80px;
+}
+.flex4 {
+    margin-left: 40px;
+}
+
+/* FOOTER CSS START  */
+
+.flex7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container {
+    margin-top: 80px;
+    border-radius: 45px;
+    height: 773px;
+    width: 1240px;
+    background-color: rgb(237, 238, 242);
+}
+
+
+.radio {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 5px;
+width: 200px;
+    margin-left: 100px;
+    margin-top: 120px;
+}
+
+#get {
+margin-left: 15px;
+font-size: 29px;
+/* height: 30px; */
+}
+.hi ,.get {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hi , #get {
+    height: 20px;
+    width: 20px;
+}
+
+.inputs {
+    height: 650px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* line-height: 0px; */
+    /* margin-top: 25px; */
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+
+.name , .email  {
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+.mess {
+    margin-top: 30px;
+    margin-bottom: 9px;
+}
+
+#name , #email {
+    border: 1px solid gray;
+    width: 400px;
+    border-radius: 11px;
+    height: 40px;
+    padding-left: 20px;
+    padding-bottom: 2px;
+}
+
+#mess {
+    padding-left: 20px;
+    height: 160px;
+    width: 400px;
+    padding-bottom: 120px;
+    border-radius: 11px;
+    border: 1px solid gray;
+}
+
+.send {
+    color: white;
+    font-size: 15px;
+    background-color: #3a3636;
+    height: 40px;
+    width: 400px;
+    border-radius: 11px;
+    /* padding-left: 20px; */
+    padding-top: 8px;
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+}
+
+.mask {
+    position: absolute;
+    top: 3100px;
+    /* right: 400px; */
+    left: 970px;
+}
+
+
+.vec1 {
+    position: absolute;
+    top: 3570px;
+    right: 945px;
+    left: 940px;
+}
+
+.vec2 {
+    position: absolute;
+    top: 3261px;
+    right: 790px;
+    left: 980px;
+}
+
+/* FOOTER CSS END  */
+
+/* footer card start  */
+
+.flex8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.black-card {
+    margin-top: 100px;
+    background-color: #191A23;
+    border-radius: 50px 50px 0px 0px;
+    height: 514px;
+    width: 1240px;
+}
+
+.flex9 {
+ display: flex;
+ justify-content: space-evenly;
+}
+
+.div1 {
+    margin-top: 22px;
+}
+
+.web {
+    padding-left: 10px;
+}
+
+.divs1 {
+    color: white;
+    font-size: 27px;
+    /* gap: 10px; */
+    padding-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 22px;
+}
+
+.list-item li {
+    list-style: none;
+    text-decoration: underline;
+    color: #F3F3F3;
+}
+
+.divs3 {
+    gap: 80px;
+}
+
+#mar {
+    margin-left: 15px;
+}
+
+.div2 {
+    height: 185px;
+    width: 332px;
+    /* background-color: #b9ff66; */
+}
+
+.divs6,.divs7,.divs8,.divs9 {
+    font-size: 14px;
+color: #F3F3F3;
+}
+
+.divs6 {
+    margin-top: 23px;
+}
+.divs7 {
+    margin-top: 23px;
+}
+
+.divs8 {
+    margin-top: 23px;
+}
+
+.divs5 {
+    background-color: #b9ff66;
+    border-radius: 11px;
+    font-weight: 600;
+    height: 26px;
+    width: 126px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div3 {
+    background-color: #292A32;
+    height: 184px;
+    width: 634px;
+    border-radius: 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    z-index: 1;
+}
+
+#email-2 {
+height: 67px;
+width: 285px;
+background-color: #292A32;
+border: 1px solid white;
+/* padding-left: ; */
+border-radius: 14px;
+padding-left: 22px;
+font-size: 18px;
+}
+
+.subs {
+    height: 68px;
+    width: 249px;
+    background-color: #b9ff66;
+    border-radius: 14px;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex10 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+}
+
+
+/* DIV 4 START  */
+
+.div4 {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height: 78px;
+    /* width: 1120px; */
+    margin-top: 10px;
+    margin-left: 130px;
+
+}
+
+.underline {
+    height: 1px;
+    width: 977px;
+    background-color: gray;
+    margin-left: 130px;
+    margin-top: 70px;
+}
+
+.divs10 {
+    font-size: 18px;
+    color: #F3F3F3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divs11 {
+    font-size: 18px;
+    color: #F3F3F3;
+    text-decoration: underline;
+    padding-left: 50px;
+}
+
+
+
+/* footer card end  */

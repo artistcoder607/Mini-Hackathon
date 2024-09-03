@@ -1,0 +1,333 @@
+@media only screen and (min-width: 380px) and (max-width: 500px) {
+
+html {
+min-height: 100vh;
+min-width: 100vw;
+overflow-x: hidden;
+}
+
+
+#nav-tog {
+    margin-left: 210px
+}
+.resp1 {
+    margin-right: 100px;
+}
+.resp2 {
+    width: 350px;
+}
+.resp3 {
+width: 310px;
+}
+#resp4 {
+    position: absolute;
+    left: 130px;
+    top: 850px;
+
+}
+#resp5 {
+    position: absolute;
+    top: 900px;
+    left: 70px;
+    width: 280px;
+}
+#resp6 {
+    flex-direction: column;
+}
+#resp7 {
+    height: 309px;
+    width: 370px;
+    position: absolute;
+    top: 1028px;
+    left: 10px;
+}
+#resp8 {
+    height: 41px;
+    width: 41px;
+    /* margin-left: 20px; */
+}
+#resp9 {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 2px;
+    z-index: 2;
+}
+
+#resp10 {
+    height: 309px;
+    width: 370px;
+    position: absolute;
+    top: 1028px;
+left: 10px;
+}
+#resp12 {
+    height: 150px;
+    width: 220px;
+    position: absolute;
+    top: 60px;
+    right: 55px;
+}
+.learn {
+    margin-left: 60px;
+}
+
+.process {
+    position: absolute;
+    top: 1100px;
+    left: 45px;
+    width: 300px;
+    margin-top: 280px;
+}
+.step , .goal {
+    font-size: 18px;
+}
+
+.flex2 {
+    margin-top: 370px;
+    font-size: 20px;
+    position: absolute;
+    top: 1080px;
+    /* font-size: 22px; */
+    left: 46px;
+    text-align: center;
+}
+ 
+.card5,.circle1 {
+margin-top: 500px;
+height: 20px;
+width: 20px;
+}
+.card6 {
+    height: 92px;
+    width: 364px;
+    background-color: rgb(228, 229, 235);
+    position: absolute;
+    top: 1500px;
+    left: 14px;
+}
+.card7 {
+    height: 92px;
+    width: 364px;
+    background-color: rgb(228, 229, 235);
+    position: absolute;
+    top: 1620px;
+    left: 14px;
+}
+.card8 {
+    height: 92px;
+    width: 364px;
+    background-color: rgb(228, 229, 235);
+    position: absolute;
+    top: 1740px;
+    left: 14px;
+}
+.card9 {
+    height: 92px;
+    width: 364px;
+    background-color: rgb(228, 229, 235);
+    position: absolute;
+    top: 1860px;
+    left: 14px;
+}
+.card10 {
+    height: 92px;
+    width: 364px;
+    background-color: rgb(228, 229, 235);
+    position: absolute;
+    top: 1980px;
+    left: 14px;
+}
+
+.resize-all {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 16px;
+    /* left: 80px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 9px;
+}
+.round {
+    height: 37px;
+    width: 37px;
+    border-radius: 50%;
+    position: absolute;
+    top: 1200px;
+    left: 40px;
+    position: absolute;
+    top: 25px;
+    left: 300px;
+    
+}
+
+.text7 ,.text9 , .text10 ,.text11 {
+    font-size: 12px;
+    position: absolute;
+    top: 27px;
+    left: 30px;
+}
+
+.text8 {
+    font-size: 12px;
+    position: absolute;
+    top: 27px;
+    left: 30px;
+}
+
+.resp-man {
+    font-size: 13px;
+    width: 160px;
+}
+
+.contact {
+    margin-top: 460px;
+    width: 200px;
+    position: absolute;
+    top: 1670px;
+    left: 90px;
+    /* display: flex; */
+    padding-left: 30px;
+}
+
+.flex4 {
+    align-items: center;
+    position: absolute;
+    top: 2190px;
+    left: 40px;
+}
+.text13 {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+
+
+#remove, #remove-dash, .circle1, .img-container,.mask,.vec1,.vec2 {
+    height: 2px;
+    width: 2px;
+    color: white;
+    position: absolute;
+    top: 1;
+    left: 1px;
+    z-index: -78;
+}
+
+.main-container {
+    margin-top: 580px;
+    height: 650px;
+    width: 380px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.radio {
+    position: absolute;
+    top: 2200px;
+    right: 105px;
+}
+
+.inputs {
+    width: 340px;
+}
+#name,#mess ,#email ,.send {
+    width: 340px;
+}
+
+.resp-inp {
+    position: absolute;
+    top: 2330px;
+    width: 300px;
+    left: 20px;
+}
+
+.black-card {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    flex-direction: column;
+    height: 1170px;
+    width: 390px;
+
+}
+
+.divs1 {
+    position: absolute;
+}
+
+.divs2 {
+    position: relative;
+    top: 55px;
+left: 85px;
+}
+.list-item {
+    display: flex;
+    flex-direction: column;
+}
+.divs5 {
+    position: absolute;
+    top: 3330px;
+    left: 133px;
+}
+
+.res {
+text-align: center;
+margin-left: 230px;
+}
+
+#email-2 {
+    height: 66px;
+    /* width: 260px; */
+    width: 230px;
+    
+}
+.subs {
+    height: 66;
+    width: 233px;
+}
+
+.div3 {
+    height: 216px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    width: 380px;
+    position: relative;
+    right: 170px;
+    top: 290px;
+}
+
+
+
+.images {
+    position: relative;
+    /* position: relative; */
+    top: 850px;
+    right: 75px;
+
+}
+
+.div3 {
+    width: 360px;
+}
+
+.underline {
+    /* margin-top: 440px;
+    margin-top: 400px; */
+    position: relative;
+    top: 0px;
+    right: 130px;
+    width: 380px;
+}
+
+
+
+}
